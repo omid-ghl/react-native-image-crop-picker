@@ -1,5 +1,5 @@
 {
-  "name": "react-native-image-crop-picker-sm",
+  "name": "react-native-image-crop-picker",
   "version": "0.30.0",
   "description": "Select single or multiple images, with cropping option",
   "main": "index.js",
